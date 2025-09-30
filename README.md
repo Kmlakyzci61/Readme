@@ -1,6 +1,6 @@
 # My About
 # 💫 About Me:
-👋 Hello there! Welcome to my profile.<br>💻 About Me<br>✨ I'm a Frontend Developer passionate about creating beautiful and intuitive user experiences.<br><br>☕ Always learning new things and focused on writing clean, reusable code.<br><br>🌱 I'm Currently Working On<br>⚛️ I create new websites using HTML, CSS and Javascript.<br><br>🤝 I'm Looking to Collaborate On<br>💡 Fun, accessible, open-source projects focused on modern web design.<br><br>📢 Anything that challenges me to improve my state management skills.<br><br>🛠️ My Favorite Tools & Tech<br>Languages: JavaScript (ES6+), HTML5, CSS3.<br><br>Frameworks: React, Next.js, Tailwind CSS , Bootstrap.<br>Tools: VS Code,<br><br>📫 Get in Touch<br>🌐 Find more of my work on my [Portfolio Website].<br><br>🔗 Let's connect on [LinkedIn]!
+👋 Hello there! Welcome to my profile.<br>💻 About Me<br>✨ I'm a Frontend Developer passionate about creating beautiful and intuitive user experiences.<br><br>☕ Always learning new things and focused on writing clean, reusable code.<br><br>🌱 I'm Currently Working On<br>⚛️ I create new websites using HTML, CSS and Javascript.<br><br>🤝 I'm Looking to Collaborate On<br>💡 Fun, accessible, open-source projects focused on modern web design.<br><br>📢 Anything that challenges me to improve my state management skills.<br><br>🛠️ My Favorite Tools & Tech<br>Languages: JavaScript (ES6+), HTML5, CSS3.<br><br>Frameworks: React,Tailwind CSS , Bootstrap.<br>Tools: VS Code,<br><br>📫 Get in Touch<br>🌐 Find more of my work on my [Portfolio Website].<br><br>🔗 Let's connect on [LinkedIn]!
 
 
 ## 🌐 Socials:
@@ -25,7 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kmlakyzci61&icon=6&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
